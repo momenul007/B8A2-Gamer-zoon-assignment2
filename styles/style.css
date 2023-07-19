@@ -204,6 +204,9 @@ body{
     color: transparent;
     -webkit-background-clip: text;
 }
+.mvides{
+    width: 90%;
+}
 .videosp{
     color: #534C64;
     font-size: 15px;
@@ -215,6 +218,7 @@ body{
     grid-template-columns: repeat(4,1fr);
     width: 100%;
     gap: 10px;
+    justify-content:center ;
 }
 .mvideo img{
     width: 100%;
@@ -368,3 +372,48 @@ body{
 }
 
 /* main saction end  */
+.flexen , .futflex1 , .ff1 , .ff2 , .futflex2 , .futflex3 , .ff31 , .ff32{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.footerfin{
+    background: #0b0223;
+}
+.fotercon{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding: 100px 0px;
+}
+.navhading{
+    color: #FFF;
+}
+.futflex1{
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+     margin:20px 0px ;
+}
+.ss{
+    font-size: 25px; 
+    color: #FFF;
+}
+.futflex2{
+    margin:20px 0px ;
+}
+.futflex3{
+    color: rgba(255, 255, 255, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    margin:20px 0px ;
+}
+.futerend{
+    color: rgba(255, 255, 255, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 30px;
+}

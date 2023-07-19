@@ -203,7 +203,17 @@
  
 
 /* play gamer saction end */
+/* carear saction start  */
+
+
+/* carear saction end   */
 /* main saction end  */
+.flexen , .futflex1 , .futflex3 {
+    flex-direction: column;
+}
+.futerend span{
+    display: block;
+}
 
 
 
