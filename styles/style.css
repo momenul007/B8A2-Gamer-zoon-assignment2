@@ -31,8 +31,8 @@ body{
     margin: 25px auto;
     align-items: center;
 }
+
 .navhading{
-    color: #0B0223;
     font-size: 45px;
     font-weight: 700;
 }
@@ -199,7 +199,8 @@ body{
     margin-top: 50px;
     margin-bottom: 10px;
 }
-.vgg{
+
+.vgg , .vgl{
     background-image: linear-gradient(to bottom,#dc4cc2,#a654e0);
     color: transparent;
     -webkit-background-clip: text;
@@ -417,6 +418,11 @@ body{
     font-weight: 500;
     margin-top: 30px;
 }
+.footop{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
 /* all hovers  */
 .flixcon:hover{
     border: 2px solid #ff42a5;
@@ -425,4 +431,8 @@ body{
 .flixcon:hover p{
     color: #ff42a5;
 
+}
+/* dranderus  */
+.black{
+    color: #0B0223; 
 }
