@@ -75,6 +75,16 @@
 
 
 /* gamer saction end  */
+/* video saction start  */
+
+.vbottom{
+    grid-template-columns: repeat(2,1fr);
+    margin: 1px 5px;
+}
+.videop{
+    font-size: 20px;
+}
+/* video saction end  */
 /* main saction end  */
 
 

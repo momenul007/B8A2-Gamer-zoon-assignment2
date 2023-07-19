@@ -101,6 +101,30 @@
 }
 
 /* gamer saction end  */
+/* video saction start  */
+.videosh{
+    font-size: 30px;
+}
+
+.videosp{
+    color: #534C64;
+    font-size: 12px;
+}
+.vbottom{
+    grid-template-columns: repeat(1,1fr);
+}
+.mvideo img{
+    width: 100%;
+}
+.vbottom{
+    width: 60%;
+    margin: auto;
+}
+.videop{
+    font-size: 8px;
+    text-align: center;
+}
+/* video saction end  */
 /* main saction end  */
 
 
