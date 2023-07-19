@@ -85,6 +85,37 @@
     font-size: 20px;
 }
 /* video saction end  */
+/* instantly saction start  */
+.instantly{
+    flex-direction: column;
+}
+.insRight{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.insimg2 img{
+    width: 30%;
+    padding: 0;
+    border: 5px solid #FFF;
+    margin: 0;
+    position: absolute;
+    top:75%;
+    left: -15%;
+}
+.insimg1 img{
+    width: 100%;
+    text-align: center;
+}
+.insLeft{
+    position: relative;
+    width: 70%;
+    margin: auto;
+}
+
+/* instantly saction end  */
 /* main saction end  */
 
 

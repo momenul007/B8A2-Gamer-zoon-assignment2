@@ -228,4 +228,60 @@ body{
     line-height: 30px; /* 150% */ 
 }
 /* video saction end  */
+
+/* instantly saction start  */
+.instantly{
+    display: flex;
+    max-width: 1440px;
+    margin: auto;
+}
+.insRight{
+    width: 50%;
+    text-align: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.insH{
+    font-size: 48px;
+    font-weight: 700;
+}
+.insP{
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+}
+.insLeft{
+    width: 50%;
+    margin-top: 20px;
+}
+.insimg2 img{
+    width: 30%;
+    padding: 0;
+    border: 5px solid #FFF;
+    margin: 0;
+    position: absolute;
+    top:75%;
+    left: -5%;
+
+}
+.insimg{
+    width: 100%;
+}
+.insggr{
+    width: 60%;
+}
+.insimg1 img{
+    width: 100%;
+    text-align: center;
+}
+.insallall{
+    position: relative;
+    display: flex;
+    justify-content: end;
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+}
+/* instantly saction end  */
 /* main saction end  */

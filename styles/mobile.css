@@ -125,6 +125,50 @@
     text-align: center;
 }
 /* video saction end  */
+/* instantly saction start  */
+.instantly{
+  flex-direction: column;
+}
+.insRight{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+.insH{
+    font-size: 30px;
+}
+.insP{
+    font-size: 12px;
+}
+.insLeft{
+    width: 100%;
+}
+.insimg1 img{
+    width: 100%;
+    text-align: center;
+}
+.insimg2 img{
+    width: 30%;
+    padding: 0;
+    border: 5px solid #FFF;
+    margin: 0;
+    position: absolute;
+    top:75%;
+    left: -15%;
+
+}
+.insimg{
+    width: 100%;
+}
+.insggr{
+    width: 60%;
+}
+.insallall{
+    width: 50%;
+    margin: auto;
+    position: relative;
+}
+/* instantly saction end  */
 /* main saction end  */
 
 
