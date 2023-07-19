@@ -53,6 +53,28 @@
 
 
 /* goat sactioon end  */
+/* gamer saction start  */
+.gamerAll{
+   flex-direction: column;
+}
+.gamerLeft{
+    width: 80%;
+}
+.gamerLeft img{
+
+}
+.gamerright{
+    width: 80%;
+    text-align: center;
+}
+
+.gamerH{
+    text-align: center;
+    
+}
+
+
+/* gamer saction end  */
 /* main saction end  */
 
 

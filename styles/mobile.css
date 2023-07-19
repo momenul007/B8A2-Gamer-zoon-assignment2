@@ -61,12 +61,46 @@
 }
 .ggggg{
     padding-top: 50px;
-    padding-bottom: 500px;
+    padding-bottom: 50px;
 }
 
 
 
 /* goat sactioon end  */
+/* gamer saction start  */
+.gamerAll{
+    flex-direction: column;
+}
+.gamerLeft{
+    width: 100%;
+}
+.gamerLeft img{
+
+}
+.gamerright{
+    width: 70%;
+    text-align: center;
+}
+.gamer{
+    background: #fff9fc;
+}
+.gamerH{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.gamerP{
+    font-size: 15px;
+    margin-bottom: 10px;
+    
+}
+.gamerpt{
+    font-size: 20px;
+    margin-bottom: 30px;
+
+}
+
+/* gamer saction end  */
 /* main saction end  */
 
 

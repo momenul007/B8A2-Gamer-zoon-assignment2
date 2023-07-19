@@ -138,4 +138,50 @@ body{
 
 
 /* goat sactioon end  */
+
+/* gamer saction start  */
+.gamerAll{
+    display: flex;
+    max-width: 1440px;
+    align-items: center;
+    margin: auto;
+}
+.gamerLeft{
+    width: 60%;
+}
+.gamerLeft img{
+    width: 100%;
+
+}
+.gamerright{
+    width: 40%;
+    text-align: right;
+}
+.gamer{
+    background: #fff9fc;
+}
+.gamerH{
+    background-image: linear-gradient(to bottom,#dc4cc2,#a654e0);
+    color: transparent;
+    -webkit-background-clip: text;
+    text-align: right;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.gamerP{
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    
+}
+.gamerpt{
+    color: #534C64;
+    font-size: 24px;
+    font-weight: 500;  
+    margin-bottom: 10px;
+
+}
+/* gamer saction end  */
 /* main saction end  */
