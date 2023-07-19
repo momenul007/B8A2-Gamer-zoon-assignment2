@@ -309,7 +309,7 @@ body{
     position: relative;
 }
 .pGCo{
-    width: 75%;
+    width: 72%;
 }
 .pGimg1 img{
     width: 100%;
@@ -317,7 +317,7 @@ body{
 .pGimg2 img{
     width: 30%;
     padding: 0;
-    border: 5px solid #FFF;
+    border: 2px solid #FFF;
     margin: 0;
     position: absolute;
     top:75%;
@@ -416,4 +416,13 @@ body{
     font-size: 16px;
     font-weight: 500;
     margin-top: 30px;
+}
+/* all hovers  */
+.flixcon:hover{
+    border: 2px solid #ff42a5;
+
+}
+.flixcon:hover p{
+    color: #ff42a5;
+
 }

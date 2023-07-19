@@ -214,7 +214,26 @@
 .futerend span{
     display: block;
 }
+.flexen , .futflex1 , .ff1 , .ff2 , .futflex2 , .futflex3 , .ff31 , .ff32{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
 
+.futflex1{
+    font-size: 12px;
+}
+.ss{
+    font-size: 25px; 
+    color: #FFF;
+}
+
+.futflex3{
+    font-size: 10px;
+}
+.futerend{
+    font-size: 10px;
+}
 
 
 
