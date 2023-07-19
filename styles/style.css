@@ -284,4 +284,43 @@ body{
     margin-top: 20px;
 }
 /* instantly saction end  */
+/* play gamer saction sthart */
+.playGame{
+    display: flex;
+    max-width: 1440px;
+    margin: auto;
+    margin-top: 150px;
+}
+.pG{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+}
+.playGame{
+}
+.pGright{
+    width: 60%;
+    position: relative;
+}
+.pGCo{
+    width: 75%;
+}
+.pGimg1 img{
+    width: 100%;
+}
+.pGimg2 img{
+    width: 30%;
+    padding: 0;
+    border: 5px solid #FFF;
+    margin: 0;
+    position: absolute;
+    top:75%;
+    right:5%;
+}
+.pGc{
+    width: 80%;
+}
+
+/* play gamer saction end */
 /* main saction end  */

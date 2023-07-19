@@ -169,6 +169,40 @@
     position: relative;
 }
 /* instantly saction end  */
+/* play gamer saction sthart */
+.playGame{
+    flex-direction: column-reverse;
+ }
+ .pG{
+     width: 100%;
+     margin-bottom: 20px;
+ }
+ .playGame{
+ }
+ .pGright{
+     width: 100%;
+     position: relative;
+ }
+ .pGCo{
+     width: 60%;
+     margin: auto;
+ }
+ .pGimg1 img{
+     width: 100%;
+ }
+ .pGimg2 img{
+     width: 15%;
+     position: absolute;
+     top:75%;
+     right:10%;
+ }
+ .pGc{
+     width: 60%;
+     text-align: center;
+ }
+ 
+
+/* play gamer saction end */
 /* main saction end  */
 
 
