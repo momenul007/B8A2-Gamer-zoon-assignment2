@@ -2,7 +2,26 @@
 
 
 
- 
+
 @media only screen and (min-width: 576px) and (max-width: 940px) {
-   
+    .nav{
+       flex-direction: column;
+       justify-content: center;
+       gap: 50px;
+    }
+    .navRight{
+        width: 100%;
+        margin: auto;
+        justify-content: center;
+    }
+    .navLeft{
+        width: 100%;
+        margin: auto;
+    }
+    .navLeft ul{
+        justify-content: center;
+    }
+
+
+
   }

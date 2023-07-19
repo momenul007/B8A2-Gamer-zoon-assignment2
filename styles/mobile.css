@@ -1,6 +1,25 @@
  /* CSS for mobiles */
 
- 
+
 @media only screen and (max-width: 567px) {
-    
+    .nav{
+        flex-direction: column;
+        justify-content: center;
+        gap: 50px;
+     }
+     .navRight{
+         width: 100%;
+         margin: auto;
+         justify-content: center;
+     }
+     .navLeft{
+         width: 100%;
+         margin: auto;
+     }
+     .navLeft ul{
+        flex-direction: column;
+     }
+
+
+
   }
