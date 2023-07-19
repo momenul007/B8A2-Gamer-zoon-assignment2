@@ -298,6 +298,7 @@ body{
     width: 40%;
 }
 .playGame{
+    margin-bottom: 150px;
 }
 .pGright{
     width: 60%;
@@ -323,4 +324,47 @@ body{
 }
 
 /* play gamer saction end */
+/* carear saction start  */
+.career{
+    display: flex;
+    background: #ff41a5;
+    justify-content: center;
+    align-items: center;
+}
+.carRight{
+    width: 50%;
+}
+.carleft{
+    width: 50%;
+}
+
+/* carear saction end   */
+.flixcon{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background-color: #FFF;
+    border-radius: 30px;
+    padding: 5px;
+}
+.fliswrap{
+    background:#fff9fc ;
+    padding: 100px 00px;
+    
+}
+.allflix{
+    max-width: 1440px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    gap: 10px;
+}
+.flixp{
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
+
 /* main saction end  */

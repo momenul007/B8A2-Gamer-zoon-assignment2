@@ -125,6 +125,7 @@
     margin-bottom: 20px;
 }
 .playGame{
+    margin-bottom: 150px;
 }
 .pGright{
     width: 100%;
@@ -139,9 +140,6 @@
 }
 .pGimg2 img{
     width: 30%;
-    padding: 0;
-    border: 5px solid #FFF;
-    margin: 0;
     position: absolute;
     top:75%;
     right:0%;
@@ -152,6 +150,10 @@
 }
 
 /* play gamer saction end */
+/* carear saction start  */
+
+
+/* carear saction end   */
 /* main saction end  */
 
 
