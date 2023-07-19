@@ -1,7 +1,11 @@
  /* CSS for mobiles */
 
 
-@media only screen and (max-width: 567px) {
+@media only screen and (max-width: 576px) {
+    .goatbutton{
+        padding: 7px 26px;
+        font-size: 10px;
+    }
     .nav{
         flex-direction: column;
         justify-content: center;
@@ -19,6 +23,52 @@
      .navLeft ul{
         flex-direction: column;
      }
+     /* hader saction end  */
+/* main saction start  */
+/* goat saction start  */
+.goat-contenar{
+    flex-direction: column-reverse;
+    
+}
+.goatRight{
+    width: 100%;
+    margin: auto;
+}
+.goatRight img{
+    width: 100%;
+}
+.gotLeft{
+    background-image: url('../images/Group 14.png');
+    
+    background-repeat: no-repeat;
+}
+.gotLeft{
+    width: 80%;
+    margin: auto;
+}
+.goat{
+    background-image: none;
+}
+.play{
+    font-size: 16px;
+}
+.goadH{
+    font-size: 40px;
+}
+.gcc{
+    font-size: 10px;
+    margin-top: 5px;
+}
+.ggggg{
+    padding-top: 50px;
+    padding-bottom: 500px;
+}
+
+
+
+/* goat sactioon end  */
+/* main saction end  */
+
 
 
 

@@ -21,6 +21,40 @@
     .navLeft ul{
         justify-content: center;
     }
+    /* hader saction end  */
+/* main saction start  */
+/* goat saction start  */
+.goat-contenar{
+    flex-direction: column-reverse;
+    
+}
+.goatRight{
+    width: 100%;
+    margin: auto;
+}
+.goatRight img{
+    width: 100%;
+}
+.gotLeft{
+    background-image: url('../images/Group 14.png');
+    
+    background-repeat: no-repeat;
+}
+.gotLeft{
+    width: 100%;
+}
+.goat{
+    background-image: none;
+}
+.ggggg{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+/* goat sactioon end  */
+/* main saction end  */
+
 
 
 

@@ -10,12 +10,25 @@ body{
 .CC{
     color:#F948B2;
 }
+.goatbutton{
+    display: inline-flex;
+    padding: 21px 40px;
+    border-radius: 50px;
+    color: #FFF;
+    border: 0;
+    background: #ff42a5;
+    color: #FFF;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
 /* hader saction style start  */
 .nav{
     max-width: 1440px;
     display: flex;
     justify-content: space-between;
-    margin: 50px auto;
+    margin: 25px auto;
     align-items: center;
 }
 .navhading{
@@ -62,3 +75,67 @@ body{
 .youtube{
     color: red;
 }
+/* hader saction end  */
+/* main saction start  */
+/* goat saction start  */
+.gotLeft{
+    
+    background-size: 100%;
+    width: 50%;
+}
+.goat{
+    background:#fcfcfc ;
+    min-height: 40px;
+    background-image: url('../images/Group 14.png');
+    
+    background-repeat: no-repeat;
+}
+.goat-contenar{
+    display: flex;
+    max-width: 1440px;
+    margin: 0 auto;
+    
+}
+.goatRight{
+    width: 50%;
+    margin-left: 200px;
+}
+.goatRight img{
+    width: 100%;
+}
+.gotLeft{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.play{
+    color: #0B0223;
+    font-size: 48px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.goadH{
+    background-image: linear-gradient(to bottom,#dc4cc2,#a654e0);
+    color: transparent;
+    -webkit-background-clip: text;
+    font-size: 95px;
+    font-weight: 800;
+}
+.gcc{
+    color: #534C64;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: lowercase;
+    margin-top: 10px;
+}
+.gbb{
+    background:#4ec5f7 ;
+}
+.ggggg button{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+/* goat sactioon end  */
+/* main saction end  */
