@@ -513,6 +513,7 @@ body{
 }
 .overlap i{
     font-size: 50px;
+    color: #FFF;
 }
 .chack:hover{
     background: rgba(0,0,0,1);
