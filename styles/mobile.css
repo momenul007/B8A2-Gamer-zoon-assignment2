@@ -204,7 +204,47 @@
 
 /* play gamer saction end */
 /* carear saction start  */
+.carleft{
+    background-image: url('../images/Group 65.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 40vh;
+    margin-top: 10vh;
 
+}
+.career{
+    background: #ff41a5;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.carerAll{
+    flex-direction: column;
+}
+.carRight{
+    width: 80%;
+    margin: auto;
+}
+.carleft{
+    width: 90%;
+}
+.carleft img{
+    width: 100%;
+}
+.carh{
+    font-size: 35px;
+}
+.carmr , .carml{
+    font-size: 15px;
+}
+.sswhait{ 
+    padding: 15px 30px;
+    font-size: 12px;
+}
+.carp{
+    font-size: 13px;
+}
 
 /* carear saction end   */
 /* main saction end  */
